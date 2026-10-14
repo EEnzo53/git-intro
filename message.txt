@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 HEAD
 Message from main branch
-
 Message from feature branch
 feature-greeting
-=======
 main
 Change from main
 Change from feature branch
 feature-improvement
->>>>>>> a4b114584b022d9df7953278013ce7a99f798bca
+
